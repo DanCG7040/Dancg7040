@@ -3,6 +3,9 @@ A passionate programmer from Ibagué, Colombia
 
 
 - 🌱 I’m currently learning Unreal engine
+
+Connect with me:
+https://www.linkedin.com/in/daniel-cardenas-gomez-135527213/
 <!--
 **DanCG7040/Dancg7040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
