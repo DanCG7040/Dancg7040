@@ -1,4 +1,4 @@
-### Hi 👋, I'm Sebastián
+### Hi 👋, I'm Daniel
 A passionate programmer from Ibagué, Colombia
 <!--
 **DanCG7040/Dancg7040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
